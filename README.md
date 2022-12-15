@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezgisariyildiz
-- 👀 I’m interested in Linux, Kubernetes, Docker, Jenkins.
+- 👀 I’m interested in JAVA, R Studio, Linux, Kubernetes, Docker, Jenkins.
 - 🌱 I’m currently learning Kubernetes.
 - 📫 How to reach me ezgisariyildiz0@gmail.com.
 
