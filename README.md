@@ -1,4 +1,4 @@
-#  <p align="center"><img src="![👩🏻_💻](https://github.com/user-attachments/assets/32fb6679-fca8-4c7a-9316-0f2b8438f9b1")/>Whoami</p>
+#  <p align="center"<img src="![👩🏻_💻](https://github.com/user-attachments/assets/32fb6679-fca8-4c7a-9316-0f2b8438f9b1")/>Whoami</p>
 
 ## Hi there 👋
 
