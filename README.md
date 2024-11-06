@@ -1,11 +1,13 @@
 # Hi there 👋
 
+##  <p align="center">🧕🏻Whoami</p>
+
 I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to create, innovate, and explore new technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezgisariyildiz&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/ezgisariyildiz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ezgisariyildiz?tab=followers)
 
-##  <p align="center">🌟About Me</p>
+##🌟About Me
 - 🎓 Studying Computer Programming at Istanbul University.
 - 📚 Graduated in Economics from Gebze Technical University.
 - 💻 Experienced in Java and Python.
