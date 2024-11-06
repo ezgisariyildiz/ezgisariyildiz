@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##  <p align="center">🧕🏻Whoami</p>
+#  <p align="center">🧕🏻Whoami</p>
 
 I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to create, innovate, and explore new technologies.
 
