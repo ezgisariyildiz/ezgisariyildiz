@@ -1,5 +1,12 @@
 # Hi there 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezgisariyildiz&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/ezgisariyildiz?tab=followers">
+    <img src="https://img.shields.io/github/followers/ezgisariyildiz.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"/>
+  </a>
+</p>
+
 I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to create, innovate, and explore new technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezgisariyildiz&color=brightgreen)
