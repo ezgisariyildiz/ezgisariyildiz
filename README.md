@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <h1>About Me</h1>
+  About Me
 </p>
 
 I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to create, innovate, and explore new technologies.
