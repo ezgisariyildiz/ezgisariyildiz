@@ -13,7 +13,7 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 - 💻 Experienced in Java and Python.
 - ⚙️ Skilled in Odoo systems and CRM applications.
 - 🧩 Interested in Java software development and practical applications.
-- 🌐 Developing a web-based daily planner project, with plans to integrate it into mobile.
+- 🌐 Developing a web-based daily planner project.
 - 🌱 Currently learning Frontend Development and enhancing Java skills
 
 ## 🛠️ Tech Stack
