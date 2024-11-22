@@ -30,7 +30,6 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 - 📚 Writing articles about my learning journey on Medium
 
 ## 📈 GitHub Stats
-![Ezgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezgisariyildiz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgisariyildiz&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
