@@ -25,7 +25,7 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 🔭 Projects & Activities
-- 🔍 Currently working on a **Frontent Hero Bootcamp Project**
+- 🔍 Currently working on a **Spotify Project**
 - 🌟 Contributing to open source projects in Java and Python
 - 📚 Writing articles about my learning journey on Medium
 
