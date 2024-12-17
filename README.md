@@ -39,7 +39,7 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 
 
 ## 📧 Contact
-Feel free to reach out for collaborations or just to say hi! You can email me at [ezgisariyildiz0@gmail.com](mailto:ezgisariyildiz0@gmail.com).
+You can email me at [ezgisariyildiz0@gmail.com](mailto:ezgisariyildiz0@gmail.com).
 
 ---
 
