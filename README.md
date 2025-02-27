@@ -12,7 +12,7 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 - 🌱 Currently learning Frontend Development and enhancing Java skills
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/python-3670A0?styleflat&logo=python)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
