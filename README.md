@@ -3,7 +3,6 @@
 I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to create, innovate, and explore new technologies.
 
 ## 🌟About Me
-- 🎓 Studying Computer Programming at Istanbul University.
 - 📚 Graduated in Economics from Gebze Technical University.
 - 💻 Experienced in Java and Python.
 - ⚙️ Skilled in Odoo systems and CRM applications.
@@ -29,7 +28,7 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 
 
 ## 🔭 Projects & Activities
-- 🔍 Currently working on a **Leetcode-75 Challenge**
+- 🔍 Currently working on a **SoftITO Backend Developer Academy**
 - 🌟 Contributing to open source projects in Java and Python
 - 📚 Writing articles about my learning journey on Medium
 
