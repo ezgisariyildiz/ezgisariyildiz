@@ -29,8 +29,8 @@ I'm Ezgi Çağla Sarıyıldız, a passionate software developer who loves to cre
 
 ## 🔭 Projects & Activities
 - 🔍 Currently working on a **SoftITO Backend Developer Academy**
-- 🌟 Contributing to open source projects in Java and Python
-- 📚 Writing articles about my learning journey on Medium
+- 🌟 Working on projects in C#, Java and Python.
+- 📚 Writing articles about my learning journey on Github
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgisariyildiz&layout=compact&theme=radical)
